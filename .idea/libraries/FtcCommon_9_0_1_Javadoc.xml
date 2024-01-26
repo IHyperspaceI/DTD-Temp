@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="FtcCommon 9.0.1 Javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libraries/FtcCommon 9.0.1 Javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/RobotServer 9.0.1 Javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/Hardware 9.0.1 Javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/RobotCore 9.0.1 Javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

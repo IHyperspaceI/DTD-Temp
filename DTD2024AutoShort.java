@@ -15,7 +15,7 @@ import java.util.TimerTask;
 public class DTD2024AutoShort extends LinearOpMode {
 	// Timer
 	private Timer m_timer;
-	final long FORWARD_DELAY = 500L; //in ms
+	final long FORWARD_DELAY = 2000L; //in ms
 
 	// Drivetrain motors
 	private DcMotor frontLeftMotor;
